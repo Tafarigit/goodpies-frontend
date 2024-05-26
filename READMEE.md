@@ -1,0 +1,1 @@
+This app is the just a fun exercise in building a fullstack app.
